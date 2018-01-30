@@ -1,7 +1,9 @@
 # logging_tree
 Very useful when working with the logging module
 
-# reference links
+## overview
+
+## references
 http://rhodesmill.org/brandon/2012/logging_tree/
 
-# example code
+## examples

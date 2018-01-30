@@ -4,4 +4,6 @@
 
 ## references
 
-## example code
+https://docs.python.org/2/library/datetime.html
+
+## examples

@@ -1,0 +1,18 @@
+test info
+[01/19/2018 11:27:34 AM] ERROR - test error
+test debug
+[01/19/2018 11:27:34 AM] CRITICAL - test fatal
+[01/19/2018 11:27:34 AM] WARNING - test warning
+Username: test
+TASK: [creating an instance of auxiliary_module.Auxiliary] *******************************
+
+creating an instance of Auxiliary
+created an instance of auxiliary_module.Auxiliary
+calling auxiliary_module.Auxiliary.do_something
+doing something
+done doing something
+finished auxiliary_module.Auxiliary.do_something
+calling auxiliary_module.some_function()
+debug - output should only go to the filehandler
+received a call to "some_function"
+done with auxiliary_module.some_function()

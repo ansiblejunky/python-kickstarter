@@ -17,6 +17,9 @@ Python has many different GUI tookkits available. The point here is not to cover
 If you are interested, you can find a list of other toolkits:
 https://docs.python.org/3/faq/gui.html
 
+### tkinter
+http://www.tkdocs.com/tutorial/install.html
+
 ### kivy
 https://kivy.org/
 Open source Python library for rapid development of applications that makes use of innovative user interfaces, such as multi-touch apps.
@@ -34,3 +37,7 @@ class TestApp(App):
 
 TestApp().run()
 ```
+
+### pythonista
+If you want to write and run Python apps on an iOS system like iPad or iPhone, this is a great tool.
+http://omz-software.com/pythonista/

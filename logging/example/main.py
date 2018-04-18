@@ -3,7 +3,7 @@ import xlogging
 import auxiliary_module
 
 def main():
-    xlogging.initialize_logger("main.log")
+    xlogging.initialize_logger("main")
     # get module level logger (inherits from root logger)
     logger = logging.getLogger(__name__)
 
